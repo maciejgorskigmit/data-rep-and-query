@@ -1,5 +1,6 @@
-import React  from "react";
+import React from "react";
 
+// class is marked for export
 export class Header extends React.Component{
     render(){
         return(

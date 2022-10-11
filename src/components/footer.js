@@ -1,7 +1,7 @@
 import React from "react";
 
+// class is marked for export
 export class Footer extends React.Component{
-
     render(){
         return(
             <div>
